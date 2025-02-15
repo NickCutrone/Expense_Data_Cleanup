@@ -1,0 +1,621 @@
+Date,Merchant,Amount,Category
+2025-01-11,Amazon,876.32,Shopping
+2024-11-28,Amazon,284.17,Shopping
+2024-10-10,Amazon,267.79,Shopping
+2024-11-05,Amazon,252.19,Shopping
+2024-11-15,Amazon,246.57,Shopping
+2024-11-21,Amazon,244.26,Shopping
+2024-08-21,Amazon,233.23,Shopping
+2024-10-10,Amazon,220.5,Shopping
+2024-10-16,Amazon,216.37,Shopping
+2024-10-27,Amazon,196.74,Shopping
+2025-01-11,Amazon,194.44,Shopping
+2024-12-30,Amazon,173.46,Shopping
+2025-01-10,Amazon,168.68,Shopping
+2024-11-02,Amazon,160.42,Shopping
+2025-01-10,Amazon,160.25,Shopping
+2024-10-01,Amazon,151.34,Shopping
+2025-01-24,Amazon,146.36,Shopping
+2025-02-04,Amazon,142.41,Shopping
+2024-09-25,Amazon,141.94,Shopping
+2024-11-11,Amazon,135.54,Shopping
+2024-10-26,Amazon,132.92,Shopping
+2024-11-15,Amazon,130.76,Shopping
+2024-11-30,Amazon,129.07,Shopping
+2025-01-11,Amazon,112.9,Shopping
+2024-09-16,Amazon,83.78,Shopping
+2025-02-10,Amazon,82.35,Shopping
+2024-09-29,Amazon,79.09,Shopping
+2024-10-07,Amazon,71.29,Shopping
+2025-01-09,Amazon,66.07,Shopping
+2025-01-17,Amazon,63.01,Shopping
+2025-01-25,Amazon,62.38,Shopping
+2025-01-16,Amazon,49.51,Shopping
+2025-01-21,Amazon,43.79,Shopping
+2024-09-02,Amazon,40.21,Shopping
+2024-08-14,Amazon,17.61,Shopping
+2024-10-30,Amazon,12.2,Shopping
+2024-10-14,AMZN-2243,244.14,Shopping
+2024-10-24,Apple Store,2598.08,Shopping
+2024-10-14,Apple Store,1082.06,Shopping
+2024-11-03,Apple Store,1016.05,Shopping
+2024-11-06,Apple Store,984.6,Shopping
+2025-02-10,Apple Store,952.8,Shopping
+2024-08-16,Apple Store,877,Shopping
+2024-09-29,Apple Store,644.98,Shopping
+2024-12-10,Apple Store,413.43,Shopping
+2024-11-16,Apple Store,368.34,Shopping
+2024-11-14,Apple Store,327.95,Shopping
+2025-01-27,Apple Store,316.75,Shopping
+2024-11-07,Apple Store,313.1,Shopping
+2024-10-30,Apple Store,271.36,Shopping
+2024-12-04,Apple Store,211.88,Shopping
+2024-12-13,Apple Store,107.01,Shopping
+2024-10-08,Apple Store,96.51,Shopping
+2024-08-29,Apple Store,77.99,Shopping
+2024-11-26,Best Buy,8901.12,Electronics
+2025-01-18,Best Buy,1811.4,
+2025-01-13,Best Buy,1761.55,Electronics
+2024-12-20,Best Buy,1630.19,Electronics
+2024-10-15,Best Buy,1429.03,Electronics
+2024-12-23,Best Buy,1305.9,Electronics
+2025-01-27,Best Buy,1268.55,Electronics
+2024-09-17,Best Buy,1249.28,Electronics
+2024-10-10,Best Buy,1244.64,Electronics
+2024-10-11,Best Buy,1074.04,Electronics
+2024-11-22,Best Buy,983.73,Electronics
+2025-02-05,Best Buy,968.48,Electronics
+2024-10-30,Best Buy,956.69,Electronics
+2024-09-21,Best Buy,0.02,Electronics
+2024-12-06,Best Buy,758.41,Electronics
+2025-02-02,Best Buy,738.37,Electronics
+2024-12-07,Best Buy,611.42,Electronics
+2025-01-12,Best Buy,587.1,Electronics
+2024-11-05,Best Buy,501.88,Electronics
+2024-12-20,Best Buy,459.25,Electronics
+2024-11-03,Best Buy,225.26,Electronics
+2024-11-29,Best Buy,195.13,Electronics
+2025-01-21,Best Buy,50.47,Electronics
+2024-11-21,BP Gas,98.98,Gas
+2024-12-29,BP Gas,97.99,Gas
+2025-01-09,BP Gas,95.16,Gas
+2025-01-20,BP Gas,94.73,Gas
+2024-12-23,BP Gas,93.12,Gas
+2024-10-20,BP Gas,332.21,Gas
+2024-10-25,BP Gas,89.35,Gas
+2024-08-24,BP Gas,87.61,Gas
+2024-10-23,BP Gas,87.53,Gas
+2024-11-11,BP Gas,84.08,Gas
+2024-08-26,BP Gas,83.06,Gas
+2024-09-15,BP Gas,81.62,Gas
+2024-08-25,BP Gas,81,Gas
+2025-01-24,BP Gas,70.74,Gas
+2024-11-29,BP Gas,69.73,Gas
+2024-11-17,BP Gas,65.66,Gas
+2024-11-03,BP Gas,62.87,Gas
+2024-11-26,BP Gas,60.1,Gas
+2024-10-25,BP Gas,55.83,Gas
+2024-12-20,BP Gas,50.46,Gas
+2025-01-15,BP Gas,49.88,Gas
+2024-10-23,BP Gas,48.22,Gas
+2024-12-24,BP Gas,39.57,Gas
+2024-09-18,BP Gas,39.03,Gas
+2024-09-29,BP Gas,39,Gas
+2024-12-24,BP Gas,37.64,Gas
+2024-09-02,BP Gas,35.77,Gas
+2025-01-05,BP Gas,34.56,Gas
+2024-10-02,BP Gas,33.24,Gas
+2024-12-23,BP Gas,33.07,Gas
+2025-01-13,BP Gas,31.86,Gas
+2024-11-18,BP Gas,31.39,Gas
+2025-01-28,BP Gas,31.09,Gas
+2024-10-13,BP Gas,30,Gas
+2024-10-27,Electricity Bill,190.01,Utilities
+2024-08-31,Electricity Bill,189.24,Utilities
+2024-12-27,Electricity Bill,185,Utilities
+2024-12-13,Electricity Bill,180.75,Utilities
+2024-10-08,Electricity Bill,178.4,Utilities
+2024-11-18,Electricity Bill,174.26,Utilities
+2024-08-27,Electricity Bill,173.47,Utilities
+2025-02-12,Electricity Bill,171.3,Utilities
+2025-01-07,Electricity Bill,171.28,Utilities
+2024-09-06,Electricity Bill,164.82,Utilities
+2024-09-11,Electricity Bill,159.37,Utilities
+2024-08-22,Electricity Bill,155.7,Utilities
+2024-09-06,Electricity Bill,154.28,Utilities
+2024-12-09,Electricity Bill,147.59,Utilities
+2024-11-11,Electricity Bill,146.97,Utilities
+2024-09-16,Electricity Bill,140.16,Utilities
+2024-12-21,Electricity Bill,137.85,Utilities
+2024-11-07,Electricity Bill,128.66,Utilities
+2024-08-14,Electricity Bill,799.22,Utilities
+2025-02-03,Electricity Bill,106.59,Utilities
+2024-08-23,Electricity Bill,106.14,Utilities
+2025-01-04,Electricity Bill,102.85,Utilities
+2025-02-08,Electricity Bill,101.32,Utilities
+2025-01-30,Electricity Bill,99.08,Utilities
+2025-01-08,Electricity Bill,94.05,Utilities
+2024-09-04,Electricity Bill,93.11,Utilities
+2025-01-11,Electricity Bill,89.72,Utilities
+2024-09-08,Electricity Bill,89.33,Utilities
+2024-12-22,Electricity Bill,89.29,Utilities
+2024-08-18,Electricity Bill,88.43,Utilities
+2025-01-20,Electricity Bill,67.37,Utilities
+2024-09-17,Electricity Bill,60.6,Utilities
+2024-10-26,Electricity Bill,60.34,Utilities
+2024-09-11,Electricity Bill,57.3,Utilities
+2024-12-30,Electricity Bill,43.32,Utilities
+2025-01-01,Electricity Bill,42.03,Utilities
+2024-09-28,Gym Membership,92.44,
+2024-10-20,Gym Membership,91.39,Health & Fitness
+2024-11-14,Gym Membership,87.46,Health & Fitness
+2024-10-23,Gym Membership,85.23,Health & Fitness
+2024-09-26,Gym Membership,80.65,Health & Fitness
+2024-12-08,Gym Membership,77.72,Health & Fitness
+2024-09-14,Gym Membership,74.55,Health & Fitness
+2024-08-16,Gym Membership,71.62,Health & Fitness
+2024-11-26,Gym Membership,71.35,Health & Fitness
+2025-02-07,Gym Membership,69.7,Health & Fitness
+2025-01-28,Gym Membership,69.14,Health & Fitness
+2024-08-18,Gym Membership,68.34,Health & Fitness
+2024-12-16,Gym Membership,67.48,Health & Fitness
+2024-12-23,Gym Membership,65.21,Health & Fitness
+2024-11-10,Gym Membership,54.86,Health & Fitness
+2025-02-09,Gym Membership,54.45,Health & Fitness
+2024-11-17,Gym Membership,500,Health & Fitness
+2024-09-01,Gym Membership,44.92,Health & Fitness
+2025-02-12,Gym Membership,44.49,Health & Fitness
+2024-11-19,Gym Membership,40.27,Health & Fitness
+2024-11-10,Gym Membership,38.09,Health & Fitness
+2024-12-06,Gym Membership,36.61,Health & Fitness
+2024-09-26,Gym Membership,35.39,Health & Fitness
+2025-01-01,Gym Membership,32.22,Health & Fitness
+2024-08-14,Gym Membership,27.23,Health & Fitness
+2024-12-25,Gym Membership,26.96,Health & Fitness
+2024-10-01,Gym Membership,24.36,Health & Fitness
+2024-10-07,Gym Membership,23.09,Health & Fitness
+2024-11-12,Insurance,494.5,Bills
+2025-01-07,Insurance,469.5,Bills
+2025-02-09,Insurance,468.73,Bills
+2024-12-06,Insurance,439.58,Bills
+2025-01-27,Insurance,439.42,Bills
+2025-02-09,Insurance,423.19,Bills
+2024-11-26,Insurance,405.36,Bills
+2024-09-21,Insurance,1001.91,Bills
+2024-11-29,Insurance,376.22,Bills
+2025-01-03,Insurance,361.41,Bills
+2025-01-11,Insurance,327.56,Bills
+2024-08-31,Insurance,266.95,
+2024-08-25,Insurance,263.12,Bills
+2025-01-08,Insurance,263.12,Bills
+2024-12-28,Insurance,248.5,Bills
+2024-10-19,Insurance,230.5,Bills
+2024-11-29,Insurance,216.5,Bills
+2024-12-09,Insurance,190.82,Bills
+2024-08-15,Insurance,165.32,Bills
+2025-02-09,Insurance,143.74,Bills
+2024-12-03,Insurance,122.62,Bills
+2024-12-03,Insurance,119.16,Bills
+2024-09-01,Insurance,117.1,Bills
+2024-09-19,Insurance,112.79,Bills
+2024-12-23,Insurance,110.16,Bills
+2024-12-27,Insurance,90.33,Bills
+2024-12-28,Insurance,82.47,Bills
+2024-12-22,Insurance,82.25,Bills
+2024-10-31,Insurance,81.61,Bills
+2024-08-28,Insurance,57.04,Bills
+2025-02-06,Insurance,55.87,Bills
+2024-11-03,Lyft,45.94,Transport
+2025-01-07,Lyft,45.31,Transport
+2025-01-20,Lyft,45.1,Transport
+2024-12-12,Lyft,39.53,Transport
+2024-10-01,Lyft,37.68,Transport
+2024-10-17,Lyft,37.55,Transport
+2024-09-25,Lyft,37.41,Transport
+2024-09-21,Lyft,37.29,Transport
+2024-09-17,Lyft,36.85,Transport
+2025-02-04,Lyft,35.48,Transport
+2025-02-06,Lyft,35.43,Transport
+2024-12-09,Lyft,81.19,Transport
+2025-02-09,Lyft,32.7,Transport
+2024-08-19,Lyft,31.21,Transport
+2024-10-21,Lyft,30.5,Transport
+2025-01-28,Lyft,30.48,Transport
+2024-11-15,Lyft,30.4,Transport
+2024-09-16,Lyft,28.7,Transport
+2024-12-28,Lyft,26.9,Transport
+2024-12-04,Lyft,26.73,Transport
+2024-12-26,Lyft,25.78,Transport
+2024-11-28,Lyft,25.39,Transport
+2024-11-18,Lyft,23.28,Transport
+2024-12-26,Lyft,21.98,Transport
+2024-10-16,Lyft,19.72,Transport
+2024-08-22,Lyft,15.54,Transport
+2024-12-17,Lyft,14.58,Transport
+2024-09-09,Lyft,14.1,Transport
+2024-09-11,Lyft,12.99,Transport
+2024-12-12,Lyft,12.75,Transport
+2024-08-19,Lyft,12.47,Transport
+2024-12-28,Lyft,10.45,Transport
+2024-08-19,Lyft,9.49,Transport
+2024-11-13,Lyft,9.2,Transport
+2024-12-17,Lyft,7.75,Transport
+2024-09-13,Lyft,6.37,Transport
+2025-01-01,Lyft,6.1,Transport
+2024-11-05,Lyft,5.22,Transport
+2025-01-15,McDonald's,19.5,Food & Drink
+2025-02-02,McDonald's,18.76,Food & Drink
+2024-09-14,McDonald's,18.49,Food & Drink
+2025-02-10,McDonald's,18.25,Food & Drink
+2024-10-02,McDonald's,16.55,Food & Drink
+2024-11-01,McDonald's,16.51,Food & Drink
+2024-10-02,McDonald's,16.42,Food & Drink
+2025-02-12,McDonald's,16.2,Food & Drink
+2024-10-07,McDonald's,16.13,Food & Drink
+2025-01-29,McDonald's,15.37,Food & Drink
+2025-01-16,McDonald's,15.07,Food & Drink
+2024-09-30,McDonald's,14.63,Food & Drink
+2024-10-29,McDonald's,14.15,Food & Drink
+2024-10-20,McDonald's,14.13,Food & Drink
+2025-02-10,McDonald's,13.97,Food & Drink
+2024-11-21,McDonald's,13.44,Food & Drink
+2025-01-01,McDonald's,12.78,Food & Drink
+2025-01-21,McDonald's,12.74,Food & Drink
+2025-01-12,McDonald's,12.69,Food & Drink
+2024-09-14,McDonald's,12.31,Food & Drink
+2024-09-26,McDonald's,11.9,Food & Drink
+2025-01-15,McDonald's,11.74,Food & Drink
+2024-11-26,McDonald's,11.66,Food & Drink
+2025-01-20,McDonald's,11.39,Food & Drink
+2024-08-17,McDonald's,10.67,Food & Drink
+2025-01-28,McDonald's,10.31,Food & Drink
+2024-11-05,McDonald's,10.27,Food & Drink
+2024-08-27,McDonald's,9.74,Food & Drink
+2024-10-20,McDonald's,9.47,Food & Drink
+2024-10-22,McDonald's,8.77,Food & Drink
+2024-09-09,McDonald's,7.07,Food & Drink
+2024-08-19,McDonald's,6.92,Food & Drink
+2024-08-28,McDonald's,6.83,Food & Drink
+2024-08-28,McDonald's,6.46,Food & Drink
+2024-09-19,McDonald's,6.43,Food & Drink
+2024-08-27,McDonald's,5.8,Food & Drink
+2025-02-01,McDonald's,5.28,Food & Drink
+2024-11-25,Netflix,19.97,Entertainment
+2024-11-11,Netflix,19.28,Entertainment
+2024-12-05,Netflix,19.2,Entertainment
+2024-11-07,Netflix,19.13,Entertainment
+2024-09-19,Netflix,18.73,Entertainment
+2024-12-17,Netflix,18.59,
+2024-11-13,Netflix,18.51,Entertainment
+2025-01-27,Netflix,148.08,Entertainment
+2024-09-19,Netflix,17.72,Entertainment
+2024-12-17,Netflix,17.68,
+2024-09-22,Netflix,17.67,Entertainment
+2025-02-04,Netflix,17.56,Entertainment
+2024-10-29,Netflix,17.34,Entertainment
+2025-02-08,Netflix,16.62,Entertainment
+2025-01-17,Netflix,16.1,Entertainment
+2024-08-19,Netflix,15.8,Entertainment
+2025-01-04,Netflix,15.02,Entertainment
+2024-11-29,Netflix,14.08,Entertainment
+2025-01-29,Netflix,14.01,Entertainment
+2024-12-27,Netflix,13.71,Entertainment
+2024-08-31,Netflix,13.62,Entertainment
+2024-12-14,Netflix,13.53,Entertainment
+2024-09-17,Netflix,12.92,Entertainment
+2024-12-15,Netflix,12.42,Entertainment
+2024-12-31,Netflix,12.25,Entertainment
+2024-11-03,Netflix,11.29,Entertainment
+2024-12-23,Netflix,11.17,Entertainment
+2024-11-08,Netflix,10.73,Entertainment
+2024-08-24,Netflix,10.7,Entertainment
+2024-11-08,Netflix,10.33,Entertainment
+2024-08-14,Netflix,10.13,Entertainment
+2025-01-11,Netflix,10.06,Entertainment
+2024-09-19,Phone Bill,145.51,Bills
+2024-09-28,Phone Bill,144.75,Bills
+2024-09-12,Phone Bill,141.37,Bills
+2024-12-25,Phone Bill,129.09,Bills
+2024-09-24,Phone Bill,124.43,Bills
+2025-01-25,Phone Bill,115.78,Bills
+2024-09-27,Phone Bill,113.3,Bills
+2025-02-09,Phone Bill,112.55,Bills
+2025-01-09,Phone Bill,108.22,Bills
+2024-12-03,Phone Bill,101.02,Bills
+2024-08-30,Phone Bill,91.18,Bills
+2024-11-20,Phone Bill,638.26,Bills
+2024-09-01,Phone Bill,77.42,Bills
+2024-12-19,Phone Bill,76.6,Bills
+2024-09-30,Phone Bill,73.44,Bills
+2024-09-21,Phone Bill,66.81,Bills
+2025-01-10,Phone Bill,57.33,Bills
+2024-11-04,Phone Bill,54.83,Bills
+2024-08-30,Phone Bill,54.48,Bills
+2024-08-24,Phone Bill,53.26,Bills
+2025-01-25,Phone Bill,49.59,Bills
+2024-12-02,Phone Bill,36.52,Bills
+2024-12-25,Phone Bill,34.86,Bills
+2025-02-10,Phone Bill,31.52,Bills
+2024-12-23,Rent Payment,2943.43,Housing
+2024-11-12,Rent Payment,2866.13,Housing
+2025-02-01,Rent Payment,2863.09,Housing
+2024-10-18,Rent Payment,2848.42,Housing
+2024-08-29,Rent Payment,2796.96,Housing
+2024-12-22,Rent Payment,2767.85,Housing
+2024-12-14,Rent Payment,2641.57,Housing
+2024-10-19,Rent Payment,2427.64,Housing
+2024-10-08,Rent Payment,2304.24,Housing
+2025-01-29,Rent Payment,2264.68,Housing
+2024-09-06,Rent Payment,2221.56,Housing
+2025-01-17,Rent Payment,2161.39,Housing
+2024-08-30,Rent Payment,2108.43,Housing
+2024-10-03,Rent Payment,2106.33,Housing
+2024-10-19,Rent Payment,2092.96,Housing
+2024-09-20,Rent Payment,18956.97,Housing
+2024-08-15,Rent Payment,2038.57,Housing
+2025-01-01,Rent Payment,2033.7,Housing
+2024-10-02,Rent Payment,2015.02,Housing
+2024-11-10,Rent Payment,1977.16,Housing
+2025-01-10,Rent Payment,1811.49,Housing
+2024-12-12,Rent Payment,1702.21,Housing
+2024-10-03,Rent Payment,1665.86,Housing
+2024-08-19,Rent Payment,1421.78,Housing
+2024-10-09,Rent Payment,1384.12,Housing
+2024-10-19,Rent Payment,1362.82,Housing
+2024-10-14,Rent Payment,1180.97,Housing
+2024-11-19,Rent Payment,1180.52,Housing
+2025-02-07,Rent Payment,1175.14,Housing
+2024-11-27,Rent Payment,1072.75,Housing
+2024-11-19,Rent Payment,1009.31,Housing
+2024-11-09,Rent Payment,980.37,Housing
+2024-10-30,Rent Payment,873.51,Housing
+2024-12-28,Restaurant,99.65,Food & Drink
+2024-09-29,Restaurant,91.06,Food & Drink
+2024-09-20,Restaurant,81.53,Food & Drink
+2024-12-04,Restaurant,80.93,Food & Drink
+2025-02-06,Restaurant,78.45,Food & Drink
+2024-12-21,Restaurant,67.93,Food & Drink
+2024-08-18,Restaurant,56.53,Food & Drink
+2024-11-25,Restaurant,54.14,Food & Drink
+2024-08-26,Restaurant,52.68,Food & Drink
+2024-09-19,Restaurant,51.72,Food & Drink
+2024-10-15,Restaurant,49.06,Food & Drink
+2024-08-27,Restaurant,46.54,Food & Drink
+2024-10-14,Restaurant,44.11,Food & Drink
+2024-10-12,Restaurant,43.82,Food & Drink
+2024-12-31,Restaurant,41.15,Food & Drink
+2024-11-23,Restaurant,37.87,Food & Drink
+2024-10-27,Restaurant,340.83,Food & Drink
+2024-12-27,Restaurant,35.2,Food & Drink
+2025-01-15,Restaurant,33.43,Food & Drink
+2024-11-07,Restaurant,32.89,Food & Drink
+2024-11-22,Restaurant,32.26,Food & Drink
+2024-08-20,Restaurant,31.89,Food & Drink
+2024-09-21,Restaurant,29.9,Food & Drink
+2024-12-13,Restaurant,26.34,Food & Drink
+2024-08-26,Restaurant,18.89,Food & Drink
+2024-11-02,Restaurant,13.73,Food & Drink
+2024-08-21,Restaurant,10.62,Food & Drink
+2024-11-13,SB-3399,14.72,Food & Drink
+2024-11-09,Shell Gas,97.97,Gas
+2024-09-24,Shell Gas,96.98,Gas
+2025-01-14,Shell Gas,92.83,Gas
+2024-10-20,Shell Gas,91.47,Gas
+2025-01-09,Shell Gas,89.95,
+2025-01-06,Shell Gas,87.69,Gas
+2025-01-09,Shell Gas,86.08,Gas
+2025-02-08,Shell Gas,85.6,Gas
+2024-10-15,Shell Gas,84.35,Gas
+2024-12-22,Shell Gas,84.09,Gas
+2025-01-09,Shell Gas,82.44,Gas
+2024-11-27,Shell Gas,82.11,Gas
+2024-11-19,Shell Gas,80.03,Gas
+2024-11-26,Shell Gas,79.21,Gas
+2024-11-16,Shell Gas,74.88,Gas
+2024-11-01,Shell Gas,73.45,Gas
+2024-09-04,Shell Gas,73.15,Gas
+2024-11-03,Shell Gas,72.66,Gas
+2025-01-15,Shell Gas,72.42,Gas
+2024-11-06,Shell Gas,70.77,Gas
+2024-10-15,Shell Gas,69.26,Gas
+2024-11-22,Shell Gas,66.35,Gas
+2024-08-22,Shell Gas,62.76,Gas
+2024-12-30,Shell Gas,62.1,Gas
+2025-02-06,Shell Gas,59.88,Gas
+2024-09-23,Shell Gas,59.13,Gas
+2024-09-01,Shell Gas,295.65,Gas
+2025-01-18,Shell Gas,58.15,Gas
+2025-01-16,Shell Gas,52.95,Gas
+2024-10-02,Shell Gas,38.06,Gas
+2024-12-09,Shell Gas,35.68,Gas
+2025-01-13,Shell Gas,33.68,Gas
+2024-10-24,Shell Gas,30.34,Gas
+2024-11-25,Spotify,14.98,Entertainment
+2024-09-02,Spotify,14.75,Entertainment
+2024-09-05,Spotify,14.68,Entertainment
+2024-10-26,Spotify,14.32,Entertainment
+2024-12-12,Spotify,14.28,Entertainment
+2024-10-07,Spotify,14.27,Entertainment
+2024-11-01,Spotify,13.95,Entertainment
+2025-01-08,Spotify,13.93,
+2024-12-12,Spotify,13.93,Entertainment
+2024-09-25,Spotify,13.86,Entertainment
+2024-09-17,Spotify,13.65,Entertainment
+2024-12-01,Spotify,13.63,Entertainment
+2025-01-16,Spotify,13.61,Entertainment
+2024-08-18,Spotify,136.1,Entertainment
+2024-10-20,Spotify,13.24,Entertainment
+2024-08-30,Spotify,13.23,Entertainment
+2024-12-23,Spotify,13.16,Entertainment
+2024-09-13,Spotify,13.12,Entertainment
+2025-01-12,Spotify,12.74,Entertainment
+2024-11-04,Spotify,12.52,Entertainment
+2025-01-01,Spotify,12.22,
+2024-09-23,Spotify,12.19,Entertainment
+2024-11-22,Spotify,12.17,Entertainment
+2024-10-25,Spotify,11.97,Entertainment
+2025-01-17,Spotify,11.31,Entertainment
+2025-02-11,Spotify,11.01,Entertainment
+2024-10-30,Spotify,10.95,Entertainment
+2024-11-30,Spotify,10.72,Entertainment
+2024-10-01,Spotify,10.59,Entertainment
+2025-01-12,Spotify,10.29,Entertainment
+2024-10-25,Spotify,10.08,Entertainment
+2024-09-22,Starbucks,14.95,Food & Drink
+2024-11-16,Starbucks,14.19,Food & Drink
+2024-12-04,Starbucks,13.46,Food & Drink
+2024-09-12,Starbucks,13.38,Food & Drink
+2024-11-02,Starbucks,12.45,Food & Drink
+2025-01-09,Starbucks,12.26,Food & Drink
+2025-01-30,Starbucks,12.15,Food & Drink
+2024-10-15,Starbucks,11.1,
+2025-01-25,Starbucks,10.9,Food & Drink
+2025-01-05,Starbucks,10.46,Food & Drink
+2024-09-07,Starbucks,94.14,Food & Drink
+2024-09-08,Starbucks,8.75,Food & Drink
+2024-11-25,Starbucks,8.46,Food & Drink
+2024-10-17,Starbucks,8.29,Food & Drink
+2024-10-06,Starbucks,8.23,Food & Drink
+2024-11-03,Starbucks,7.6,Food & Drink
+2024-12-14,Starbucks,7.44,Food & Drink
+2025-02-06,Starbucks,7.11,Food & Drink
+2024-09-02,Starbucks,7.09,Food & Drink
+2025-01-13,Starbucks,7.08,Food & Drink
+2024-10-04,Starbucks,6.58,Food & Drink
+2024-08-21,Starbucks,6.39,Food & Drink
+2025-02-03,Starbucks,5.09,Food & Drink
+2024-11-02,Starbucks,5.09,Food & Drink
+2024-12-22,Starbucks,4.94,Food & Drink
+2025-01-08,Starbucks,3.56,Food & Drink
+2025-01-09,Starbucks,3.54,Food & Drink
+2025-01-07,Starbucks,3.32,Food & Drink
+2024-08-25,Starbucks,3.28,Food & Drink
+2024-10-21,Target,248.18,
+2024-09-11,Target,227.59,Shopping
+2025-01-15,Target,224.58,Shopping
+2025-02-02,Target,222.63,Shopping
+2024-10-06,Target,217.39,Shopping
+2024-11-28,Target,215.98,Shopping
+2024-11-06,Target,212.14,Shopping
+2025-01-29,Target,210.69,Shopping
+2025-02-07,Target,201.07,Shopping
+2025-01-11,Target,195.65,Shopping
+2024-12-14,Target,175.29,Shopping
+2024-11-23,Target,169.96,Shopping
+2025-02-11,Target,166.76,Shopping
+2024-11-17,Target,156.49,Shopping
+2024-09-13,Target,1095.43,Shopping
+2025-02-11,Target,147.36,Shopping
+2024-10-23,Target,142.72,Shopping
+2025-01-01,Target,94.78,Shopping
+2024-10-31,Target,92.39,Shopping
+2024-12-01,Target,81.95,Shopping
+2024-11-12,Target,77.23,Shopping
+2025-01-23,Target,69.79,Shopping
+2025-01-07,Target,67.03,Shopping
+2025-01-25,Target,61.09,Shopping
+2024-12-29,Target,58.11,Shopping
+2025-01-04,Target,11.12,Shopping
+2024-10-31,Uber,49.42,Transport
+2024-09-15,Uber,48.06,
+2024-10-18,Uber,47.13,Transport
+2024-08-25,Uber,45.53,Transport
+2024-12-31,Uber,44.74,Transport
+2024-10-26,Uber,43.46,Transport
+2024-12-26,Uber,40.4,Transport
+2025-02-03,Uber,38.58,Transport
+2024-09-11,Uber,38.54,Transport
+2025-01-22,Uber,37.28,Transport
+2024-11-17,Uber,36.05,Transport
+2025-01-04,Uber,35.85,Transport
+2024-09-23,Uber,35.75,Transport
+2025-02-10,Uber,34.84,Transport
+2024-09-08,Uber,34.77,Transport
+2025-01-24,Uber,33.24,Transport
+2024-09-02,Uber,32.04,Transport
+2024-12-17,Uber,31.43,Transport
+2025-02-07,Uber,29.99,Transport
+2024-10-24,Uber,29.5,Transport
+2024-10-06,Uber,26.96,Transport
+2024-12-24,Uber,25.59,Transport
+2024-12-18,Uber,22.9,Transport
+2024-10-15,Uber,22.64,Transport
+2024-09-03,Uber,20.06,Transport
+2024-08-16,Uber,18.63,Transport
+2025-02-09,Uber,17,Transport
+2024-11-18,Uber,16.95,Transport
+2024-08-23,Uber,14.48,Transport
+2024-08-18,Uber,101.36,Transport
+2024-11-26,Uber,11.5,Transport
+2024-11-12,Uber,7.4,Transport
+2024-09-17,Walmart,295.7,Groceries
+2024-11-20,Walmart,285.06,Groceries
+2024-11-10,Walmart,283.46,Groceries
+2025-01-25,Walmart,1984.22,Groceries
+2024-10-09,Walmart,268.08,Groceries
+2024-08-28,Walmart,265.47,Groceries
+2025-02-10,Walmart,251.37,Groceries
+2025-02-03,Walmart,245.07,Groceries
+2025-01-26,Walmart,235.28,Groceries
+2024-11-01,Walmart,233.17,Groceries
+2024-08-18,Walmart,232.55,Groceries
+2024-12-26,Walmart,229.51,Groceries
+2024-10-21,Walmart,216.35,Groceries
+2025-01-26,Walmart,213.53,Groceries
+2024-11-12,Walmart,212.32,Groceries
+2025-02-06,Walmart,173.54,Groceries
+2025-01-06,Walmart,168.64,Groceries
+2024-11-14,Walmart,155.99,Groceries
+2024-12-27,Walmart,153.17,Groceries
+2024-10-29,Walmart,129.57,Groceries
+2024-12-15,Walmart,126.22,Groceries
+2025-01-27,Walmart,100.4,Groceries
+2024-08-19,Walmart,99.56,Groceries
+2024-09-27,Walmart,99.11,Groceries
+2024-12-13,Walmart,93.44,Groceries
+2024-10-19,Walmart,79.82,Groceries
+2024-08-28,Walmart,74.87,Groceries
+2024-08-22,Walmart,73.74,Groceries
+2024-08-22,Walmart,71.53,Groceries
+2024-09-12,Walmart,34.14,Groceries
+2024-09-11,Walmart,21.5,Groceries
+2024-12-26,Walmart,17.61,Groceries
+2024-10-11,Water Bill,96.58,Utilities
+2024-11-30,Water Bill,94.78,Utilities
+2024-10-25,Water Bill,93.69,Utilities
+2024-10-24,Water Bill,87.45,Utilities
+2024-11-07,Water Bill,82.45,Utilities
+2024-11-23,Water Bill,80.55,Utilities
+2024-08-19,Water Bill,366.95,Utilities
+2024-11-28,Water Bill,70.85,Utilities
+2025-01-19,Water Bill,66.48,Utilities
+2024-11-22,Water Bill,64.33,Utilities
+2024-09-06,Water Bill,63.38,Utilities
+2024-11-27,Water Bill,62.58,Utilities
+2024-09-08,Water Bill,62.11,Utilities
+2024-10-11,Water Bill,57.9,Utilities
+2024-11-19,Water Bill,54.53,
+2024-11-23,Water Bill,53.03,Utilities
+2025-01-29,Water Bill,52.66,Utilities
+2025-01-12,Water Bill,51.24,Utilities
+2024-09-26,Water Bill,45.9,Utilities
+2025-02-02,Water Bill,43.66,Utilities
+2024-12-09,Water Bill,43.21,Utilities
+2024-11-25,Water Bill,40.4,Utilities
+2024-09-03,Water Bill,34.31,Utilities
+2024-08-29,Water Bill,32.48,Utilities
+2024-10-27,Water Bill,31.83,Utilities
+2025-01-14,Water Bill,29.87,Utilities
+2024-09-24,Water Bill,28.86,Utilities
+2025-01-14,Water Bill,25.46,Utilities
+2024-11-28,Water Bill,21.51,Utilities
+2024-12-26,,2478.65,Shopping
+2024-10-03,,2425.09,Utilities
+2024-10-11,,2194.14,Shopping
+2025-01-21,,1798.14,Shopping
+2024-11-03,,1434.72,Food & Drink
+2024-09-21,,975.37,Bills
+2024-10-23,,538.24,Housing
+2024-11-30,,394.3,Entertainment
+2025-01-03,,164.3,Food & Drink
+2024-11-09,,65.15,Shopping
